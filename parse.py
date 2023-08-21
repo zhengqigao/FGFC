@@ -45,7 +45,10 @@ html_content += """
 </ol>
 
 <h1>Contributors</h1>
-<p>This list is contributed by: <a href="https://zhengqigao.github.io/">Zhengqi Gao</a></p>
+<p>This list is contributed by: 
+<a href="https://zhengqigao.github.io/">Zhengqi Gao</a>,
+<a href="https://hanruiwang.me/">Hanrui Wang</a>,
+</p>
 
 <h1>Feedback</h1>
 <p>
