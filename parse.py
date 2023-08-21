@@ -21,11 +21,12 @@ h1 {{
 <body>
 
 <h1>Introduction</h1>
-<p>This list functions as a bridge, connecting both older and newer generations of Fudan students engaged in research. While Fudan University undoubtedly boasts prestige, we must also acknowledge its shortcomings when compared to top universities like Tsinghua. Consider the disparity in the number of Fudan graduates working in world-class universities compared to those from Tsinghua. Through this list, our aspiration is to help upcoming generations of Fudan students seeking research opportunities establish meaningful connections with their senior Fudan alumni. We believe that professors who have graduated from Fudan would be inclined to provide assistance and offer internship opportunities upon receiving an email from a current Fudan student with a high GPA.</p>
+<p>This list functions as a bridge, connecting both older and newer generations of Fudan students engaged in research. While Fudan University undoubtedly boasts prestige, we must also acknowledge its shortcomings when compared to top universities. Through this list, our aspiration is to help upcoming generations of Fudan students seeking research opportunities establish meaningful connections with their senior Fudan alumni. We believe that professors who have graduated from Fudan would be inclined to provide assistance and offer internship opportunities upon receiving an email from a current Fudan student with a high GPA.</p>
 
-<p><strong>We just begin formulating this list, and are actively expanding the list.</strong> The individuals considered here meet two criteria: (i) they completed their bachelor's, master's, or PhD studies at Fudan University, and (ii) they are currently professors at universities other than Fudan. (Note: Fudan students can contact any Fudan professors on campus, so we have chosen not to include them in this list.)</p>
+<p><strong>We just begin formulating this list, and are actively expanding the list.</strong> The individuals considered here meet two criteria: (i) they completed at least one of their bachelor's, master's, or PhD degrees at Fudan University, and (ii) they are currently professors (either tenured or not-tenured) at universities other than Fudan. Note: Fudan students can contact any Fudan professors on campus, so we have chosen not to include them in this list.</p>
 
 <p>Moreover, we are seeking a group of volunteers to maintain and update this list. If you are interested, please get in touch with us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>.</p>
+
 
 
 
@@ -55,7 +56,7 @@ html_content += """
 
 <h1>Feedback</h1>
 
-<p>If you encounter any missing professor information or wish to contribute, please consider creating a <a href="https://github.com/zhengqigao/FGFC" target="_blank">pull request</a> on our GitHub repository by updating the collection.yaml file. Alternatively, you can contact us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>. In your email, please provide all the necessary fields required for a new entry. You can refer to the <a href="https://github.com/zhengqigao/FGFC/collection.yaml" target="_blank">collection.yaml</a> to understand the required information. We welcome professor information from all domains. Additionally, we value any suggestions or comments you may have.</p>
+<p>If you encounter any missing professor information or wish to contribute, please consider creating a <a href="https://github.com/zhengqigao/FGFC" target="_blank">pull request</a> on our GitHub repository by updating the collection.yaml file. Alternatively, you can contact us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>. In your email, <strong>please provide all the necessary fields required for a new entry<\strong>, following <a href="https://github.com/zhengqigao/FGFC/collection.yaml" target="_blank">this format</a>. We welcome professor information from all domains. Additionally, we value any suggestions or comments you may have.</p>
 
 
 
