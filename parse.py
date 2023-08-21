@@ -48,6 +48,7 @@ html_content += """
 <p>This list is contributed by: 
 <a href="https://zhengqigao.github.io/">Zhengqi Gao</a>,
 <a href="https://hanruiwang.me/">Hanrui Wang</a>,
+<a href="https://mingrany.github.io/">Mingran Yang</a>,
 </p>
 
 <h1>Feedback</h1>
