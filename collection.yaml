@@ -15,3 +15,51 @@ jqgu:
   Webpage: https://jqgu.github.io/
   Category: EE
   ResearchKey: Electronics Design Automation
+
+zmfang:
+  FirstName: Zhenman
+  LastName: Fang
+  Affiliation: Simon Fraser University
+  Webpage: http://www.sfu.ca/~zhenman/
+  Category: EE
+  ResearchKey: Hardware Accelerator
+
+yzhao:
+  FirstName: Yang
+  LastName: Zhao
+  Affiliation:  University of Minnesota, Twin Cities
+  Webpage: https://www.yangkatiezhao.net/
+  Category: EE
+  ResearchKey: Domain-Specific Acceleration Chip, Computer Architecture
+
+dwu:
+    FirstName: Di
+    LastName: Wu
+    Affiliation: University of Central Florida
+    Webpage: https://www.unarylab.com/
+    Category: EE
+    ResearchKey: Computer Architecture
+
+tychen:
+    FirstName: Tianyi
+    LastName: Chen
+    Affiliation: Rensselaer Polytechnic Institute
+    Webpage: https://chentianyi1991.github.io/
+    Category: CS
+    ResearchKey: Machine Learning
+
+xli:
+  FirstName: Xin
+  LastName: Li
+  Affiliation: Duke University
+  Webpage: https://ece.duke.edu/faculty/xin-li
+  Category: EE
+  ResearchKey: Computer-Aided Design
+
+cjshi:
+  FirstName: Richard
+  LastName: Shi
+  Affiliation: University of Washington
+  Webpage: https://people.ece.uw.edu/shi/
+  Category: EE
+  ResearchKey: Circuit Design
