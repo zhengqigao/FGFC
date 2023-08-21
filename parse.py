@@ -23,9 +23,11 @@ h1 {{
 <h1>Introduction</h1>
 <p>This list functions as a bridge, connecting both older and newer generations of Fudan students engaged in research. While Fudan University undoubtedly boasts prestige, we must also acknowledge its shortcomings when compared to top universities like Tsinghua. Consider the disparity in the number of Fudan graduates working in world-class universities compared to those from Tsinghua. Through this list, our aspiration is to help upcoming generations of Fudan students seeking research opportunities establish meaningful connections with their senior Fudan alumni. We believe that professors who have graduated from Fudan would be inclined to provide assistance and offer internship opportunities upon receiving an email from a current Fudan student with a high GPA.</p>
 
-<p><strong>We are actively expanding the list.</strong> The individuals considered here meet two criteria: (i) they completed their bachelor's, master's, or PhD studies at Fudan University, and (ii) they are currently professors at universities other than Fudan. (Note: Fudan students can contact any Fudan professors on campus, so we have chosen not to include them in this list.)</p>
+<p><strong>We just begin formulating this list, and are actively expanding the list.</strong> The individuals considered here meet two criteria: (i) they completed their bachelor's, master's, or PhD studies at Fudan University, and (ii) they are currently professors at universities other than Fudan. (Note: Fudan students can contact any Fudan professors on campus, so we have chosen not to include them in this list.)</p>
 
-<p>We are seeking a group of volunteers to maintain and update this list. If you are interested, please get in touch with us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>.</p>
+<p>Moreover, we are seeking a group of volunteers to maintain and update this list. If you are interested, please get in touch with us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>.</p>
+
+
 
 
 <h1>FGFC List</h1>
