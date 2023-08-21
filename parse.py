@@ -21,8 +21,12 @@ h1 {{
 <body>
 
 <h1>Introduction</h1>
-<p>This list functions as a bridge, linking both older and newer generations of Fudan students engaged in research. While Fudan University unquestionably boasts prestige, we must also recognize its shortcomings when compared to those top universities (e.g., Tsinghua) --- Just contemplate the discrepancy in the number of Fudan graduates working in world-class universities compared to those from Tsinghua. Through this list, our aspiration is for forthcoming generations of Fudan students seeking research opportunities to establish meaningful connections with their senior Fudan alumni. We believe that professors who have graduated from Fudan would be inclined to provide assistance and offer internship opportunities upon receiving an email from a current Fudan student with a high GPA.
-</p>
+<p>This list functions as a bridge, connecting both older and newer generations of Fudan students engaged in research. While Fudan University undoubtedly boasts prestige, we must also acknowledge its shortcomings when compared to top universities like Tsinghua. Consider the disparity in the number of Fudan graduates working in world-class universities compared to those from Tsinghua. Through this list, our aspiration is to help upcoming generations of Fudan students seeking research opportunities establish meaningful connections with their senior Fudan alumni. We believe that professors who have graduated from Fudan would be inclined to provide assistance and offer internship opportunities upon receiving an email from a current Fudan student with a high GPA.</p>
+
+<p><strong>We are actively expanding the list.</strong> The individuals considered here meet two criteria: (i) they completed their bachelor's, master's, or PhD studies at Fudan University, and (ii) they are currently professors at universities other than Fudan. (Note: Fudan students can contact any Fudan professors on campus, so we have chosen not to include them in this list.)</p>
+
+<p>We are seeking a group of volunteers to maintain and update this list. If you are interested, please get in touch with us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>.</p>
+
 
 <h1>FGFC List</h1>
 <p> Each entry is organized in the following format: Name (University, Category) — Research Keywords. Please note that [Category] may not necessarily correspond directly to the individual's department or school name, but rather reflects their research interests. The following list is arranged in alphabetical order.
@@ -43,11 +47,8 @@ for person in sorted_data:
 html_content += """
 </ol>
 
-<h1>Contributors</h1>
-<p>This list is contributed by: 
-<a href="https://zhengqigao.github.io/">Zhengqi Gao</a>,
-<a href="https://hanruiwang.me/">Hanrui Wang</a>,
-<a href="https://mingrany.github.io/">Mingran Yang</a>.
+<h1>Acknowledgement</h1>
+<p>This list is contributed by many Fudan alumnis.
 </p>
 
 <h1>Feedback</h1>
