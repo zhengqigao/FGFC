@@ -7,7 +7,6 @@ with open("collection.yaml", "r") as yaml_file:
 # Sort the data alphabetically by name
 sorted_data = sorted(yaml_data.values(), key=lambda person: f"{person['LastName']} {person['FirstName']}")
 
-
 # Generate HTML content
 html_content = f"""
 <html>
@@ -31,7 +30,7 @@ h1 {{
 <ol>
 """
 
-for key, person in yaml_data.items():
+for person in sorted_data:
     name = f"{person['FirstName']} {person['LastName']}"
     affiliation = person['Affiliation']
     category = person['Category']
@@ -48,7 +47,7 @@ html_content += """
 <p>This list is contributed by: 
 <a href="https://zhengqigao.github.io/">Zhengqi Gao</a>,
 <a href="https://hanruiwang.me/">Hanrui Wang</a>,
-<a href="https://mingrany.github.io/">Mingran Yang</a>,
+<a href="https://mingrany.github.io/">Mingran Yang</a>.
 </p>
 
 <h1>Feedback</h1>
