@@ -1,0 +1,17 @@
+
+# collections
+
+rnhan:
+  FirstName: Ruonan
+  LastName: Han
+  Affiliation: Massachusetts Institute of Technology
+  Webpage: https://hangroup.mit.edu/people/
+  Category: EE
+  ResearchKey: Thz Circuit Design
+jqgu:
+  FirstName: Jiaqi
+  LastName: Gu
+  Affiliation: Arizona State University
+  Webpage: https://jqgu.github.io/
+  Category: EE
+  ResearchKey: Electronics Design Automation
