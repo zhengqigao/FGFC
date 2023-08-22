@@ -136,3 +136,20 @@ jwlu:
     Webpage: https://junwei-lu.github.io/
     Category: Biostatistics
     ResearchKey: Statistics, Machine Learning
+
+dzhou:
+    FirstName: Dian
+    LastName: Zhou
+    Affiliation: Unversity of Texas at Dallas
+    Webpage: https://personal.utdallas.edu/~zhoud/
+    Category: EE
+    ResearchKey: Electronic Design Automation
+
+lhe:
+    FirstName: Lei
+    LastName: He
+    Affiliation: University of California, Los Angeles
+    Webpage: http://eda.ee.ucla.edu/people/faculty.html
+    Category: EE
+    ResearchKey: Electronic Design Automation
+
