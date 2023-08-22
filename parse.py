@@ -27,9 +27,6 @@ h1 {{
 
 
 
-
-
-
 <h1>FGFC List</h1>
 <p> Each entry is organized in the following format: Name (University, Category) — Research Keywords. Please note that [Category] may not necessarily correspond directly to the individual's department or school name, but rather reflects their research interests. The following list is arranged in alphabetical order.
 </p>

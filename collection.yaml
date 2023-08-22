@@ -7,15 +7,15 @@ rnhan:
   Affiliation: Massachusetts Institute of Technology
   Webpage: https://hangroup.mit.edu/people/
   Category: EE
-  ResearchKey: Thz Circuit Design
+  ResearchKey: THz Circuit Design
 
 jqgu:
   FirstName: Jiaqi
   LastName: Gu
   Affiliation: Arizona State University
-  Webpage: https://jqgu.github.io/
+  Webpage: http://www.jqgu.net/
   Category: EE
-  ResearchKey: Electronics Design Automation
+  ResearchKey: Electronics Design Automation, Photonic Integrated Circuits
 
 zmfang:
   FirstName: Zhenman
@@ -64,3 +64,51 @@ cjshi:
   Webpage: https://people.ece.uw.edu/shi/
   Category: EE
   ResearchKey: Circuit Design
+
+zyfan:
+    FirstName: Zhiyong
+    LastName: Fan
+    Affiliation: The Hong Kong University of Science and Technology
+    Webpage: https://ece.hkust.edu.hk/eezfan
+    Category: EE
+    ResearchKey: Microelectronics, Nanomaterials
+
+syang:
+    FirstName: Shu
+    LastName: Yang
+    Affiliation: University of Pennsylvania
+    Webpage: https://www.seas.upenn.edu/~shuyang/
+    Category: Material
+    ResearchKey: Multi-Materials Synthesis, Nano-/Microfabrication, and Device Processing
+
+fwang:
+    FirstName: Feng
+    LastName: Wang
+    Affiliation: University of California, Berkeley
+    Webpage: https://physics.berkeley.edu/people/faculty/feng-wang
+    Category: Physics
+    ResearchKey: Light-Matter Interaction, Low Dimensional Physics
+
+xyzhu:
+    FirstName: Xiaoyang
+    LastName: Zhu
+    Affiliation: Columbia University
+    Webpage: https://www.chem.columbia.edu/content/xiaoyang-zhu
+    Category: Chemistry
+    ResearchKey: Photo-physics in Nano, Molecular, and Hybrid Semiconductors and Interfaces
+
+xdtan:
+    FirstName: Sheldon
+    LastName: Tan
+    Affiliation: University of California, Riverside
+    Webpage: https://vsclab.ece.ucr.edu/people/sheldon-tan
+    Category: EE
+    ResearchKey: Electronic Design Automation, VLSI
+
+zqshen:
+    FirstName: Zhiqiang
+    LastName: Shen
+    Affiliation: MBZUAI
+    Webpage: https://zhiqiangshen.com/
+    Category: CS
+    ResearchKey: Machine Learning
