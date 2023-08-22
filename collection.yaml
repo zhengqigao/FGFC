@@ -112,3 +112,27 @@ zqshen:
     Webpage: https://zhiqiangshen.com/
     Category: CS
     ResearchKey: Machine Learning
+
+jyyuan:
+    FirstName: Junying
+    LastName: Yuan
+    Affiliation: Harvard university
+    Webpage: https://pinphd.hms.harvard.edu/people/junying-yuan
+    Category: Neuroscience
+    ResearchKey: Mechanisms of Neurodegeneration
+
+rduan:
+    FirstName: Rui
+    LastName: Duan
+    Affiliation: Harvard university
+    Webpage: https://sites.google.com/view/ruiduan/
+    Category: Biostatistics
+    ResearchKey: Biostatistics
+
+jwlu:
+    FirstName: Junwei
+    LastName: Lu
+    Affiliation: Harvard university
+    Webpage: https://junwei-lu.github.io/
+    Category: Biostatistics
+    ResearchKey: Statistics, Machine Learning
