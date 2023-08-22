@@ -153,3 +153,51 @@ lhe:
     Category: EE
     ResearchKey: Electronic Design Automation
 
+jqfan:
+    FirstName: Jianqing
+    LastName: Fan
+    Affiliation: Princeton University
+    Webpage: https://fan.princeton.edu/
+    Category: Statistics
+    ResearchKey: Statistics, Machine Learning
+
+
+zxshen:
+    FirstName: Zhixun
+    LastName: Shen
+    Affiliation: Stanford University
+    Webpage: https://arpes.stanford.edu/our-people/professor-zhi-xun-shen
+    Category: Physics
+    ResearchKey: Condensed Matter, Materials Physics
+
+zlying:
+    FirstName: Zhiliang
+    LastName: Ying
+    Affiliation: Columbia University
+    Webpage: http://stat.columbia.edu/~zying/index.html
+    Category: Statistics
+    ResearchKey: Statistics
+
+zshuang:
+    FirstName: Josh
+    LastName: Huang
+    Affiliation: Duke University
+    Webpage: https://bme.duke.edu/faculty/josh-huang
+    Category: Neuralscience
+    ResearchKey: Cortical Circuits
+
+zmchen:
+    FirstName: Zhengming
+    LastName: Chen
+    Affiliation: Oxford University
+    Webpage: https://www.ndph.ox.ac.uk/team/zhengming-chen
+    Category: Epidemiology
+    ResearchKey: Chronic Disease
+
+yshi:
+    FirstName: Yang
+    LastName: Shi
+    Affiliation: Oxford University
+    Webpage: https://www.ludwig.ox.ac.uk/team/yang-shi
+    Category: Epigenetics
+    ResearchKey: Chromatin, RNA modifications
