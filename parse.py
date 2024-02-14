@@ -59,7 +59,7 @@ html_content += """
 
 <h1>Feedback</h1>
 
-<p>If you encounter any missing professor information or wish to contribute, please consider creating a <a href="https://github.com/zhengqigao/FGFC" target="_blank">pull request</a> on our GitHub repository by updating the collection.yaml file. Alternatively, you can contact us via email at <a href="mailto:fgfc23.start@gmail.com">fgfc23.start@gmail.com</a>. In your email, <strong>please provide all the necessary fields required for a new entry</strong>, following <a href="https://github.com/zhengqigao/FGFC/blob/main/collection.yaml" target="_blank">this format</a>. We welcome professor information from all research domains. Because of the long list, we might make mistakes (e.g., name typos, invalid links), so please don't hesitate to let us know.</p>
+<p>If you encounter any missing professor information or wish to contribute, please consider creating a <a href="https://github.com/zhengqigao/FGFC" target="_blank">pull request</a> on our GitHub repository by updating the collection.yaml file. We welcome professor information from all research domains, but with a main emphasis on EECS. Because of the long list, we might make mistakes (e.g., name typos, invalid links), so please don't hesitate to let us know.</p>
 
 
 
