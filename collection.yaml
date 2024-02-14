@@ -201,3 +201,11 @@ yshi:
     Webpage: https://www.ludwig.ox.ac.uk/team/yang-shi
     Category: Epigenetics
     ResearchKey: Chromatin, RNA modifications
+
+mhchen:
+    FirstName: Muhao
+    LastName: Chen
+    Affiliation: University of California, Davis
+    Webpage: https://muhaochen.github.io/
+    Category: CS
+    ResearchKey: NLP
