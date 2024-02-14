@@ -28,10 +28,13 @@ h1 {{
 
 
 <h1>FGFC List</h1>
-<p> Each entry is organized in the following format: Name (University, Category) — Research Keywords. Please note that [Category] may not necessarily correspond directly to the individual's department or school name, but rather reflects their research interests. The following list is arranged in alphabetical order.
+<p> Each entry is organized in the following format: Name (University, Category) — Research Keywords. We mainly focus on the area of EECS, so faculties in these domains are arranged in the front. Please note that [Category] may not necessarily correspond directly to the individual's department or school name, but rather reflects their research interests. The following list is arranged in alphabetical order.
 </p>
 <ol>
 """
+
+main_html_content = ""
+aux_html_content = ""
 
 for person in sorted_data:
     name = f"{person['FirstName']} {person['LastName']}"
@@ -41,8 +44,12 @@ for person in sorted_data:
     research_key = person.get('ResearchKey', '')  # Get the ResearchKey if present, or use an empty string
 
     item = f"<li><a href='{webpage}'>{name}</a> ({affiliation}, {category}) --- {research_key}</li>"
-    html_content += item
+    if category == 'EE' or 'CS':
+        main_html_content += item
+    else:
+        aux_html_content += item
 
+html_content += main_html_content + aux_html_content
 html_content += """
 </ol>
 

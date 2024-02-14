@@ -1,6 +1,14 @@
 
 # collections
 
+mhchen:
+  FirstName: Muhao
+  LastName: Chen
+  Affiliation: University of California, Davis
+  Webpage: https://muhaochen.github.io/
+  Category: CS
+  ResearchKey: NLP
+
 rnhan:
   FirstName: Ruonan
   LastName: Han
