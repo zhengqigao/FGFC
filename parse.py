@@ -44,7 +44,8 @@ for person in sorted_data:
     research_key = person.get('ResearchKey', '')  # Get the ResearchKey if present, or use an empty string
 
     item = f"<li><a href='{webpage}'>{name}</a> ({affiliation}, {category}) --- {research_key}</li>"
-    if category == 'EE' or 'CS':
+
+    if category == 'EE' or  category == 'CS':
         main_html_content += item
     else:
         aux_html_content += item
